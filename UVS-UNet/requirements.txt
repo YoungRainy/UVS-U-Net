@@ -1,0 +1,6 @@
+matplotlib
+numpy
+pillow
+scipy
+torch==1.10.0
+tqdm
